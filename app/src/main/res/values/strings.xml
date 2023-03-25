@@ -4,6 +4,7 @@
     <string name="result_info">Результат: &#160;</string>
     <string name="input_a">Введите значение \"а\"</string>
     <string name="input_b">Введите значение \"b\"</string>
+    <string name="Result">Результат</string>
 
 
 </resources>
